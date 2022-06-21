@@ -21,9 +21,9 @@ Cómo encontrarme: [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](h
   <img src="https://skillicons.dev/icons?i=javascript" title="JavaScript" alt="JavaScript" width="40" height="40"/> 
   <img src="https://skillicons.dev/icons?i=tailwind" title="Tailwind" alt="Tailwind" width="40"/> 
   <img src="https://skillicons.dev/icons?i=bootstrap" title="Bootstrap" alt="Bootstrap" width="40" height="40"/> 
-  <img src="https://skillicons.dev/icons?i=postgresql" title="PostgreSQL"  alt="PostgreSQL" width="40" height="40"/> 
   <img src="https://skillicons.dev/icons?i=nodejs" title="NodeJS" alt="NodeJS" width="40" height="40"/> 
   <img src="https://skillicons.dev/icons?i=express" title="Express" **alt="Express" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=postgresql" title="PostgreSQL"  alt="PostgreSQL" width="40" height="40"/> 
   <img src="https://skillicons.dev/icons?i=github" title="Github" **alt="Github" width="40" height="40"/>
   <img src="https://skillicons.dev/icons?i=heroku" title="Heroku" **alt="Heroku" width="40" height="40"/>
   <img src="https://skillicons.dev/icons?i=vercel" title="Vercel" **alt="Vercel" width="40" height="40"/>
