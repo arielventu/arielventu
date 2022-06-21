@@ -4,7 +4,7 @@
 
 ### 👨‍💻 Acerca de mí:
 
-Soy un desarrollador Full-Stack ubicado en Argentina, apasionado por la tecnología. Con más de 20 años de experiencia en el rubro de la tecnología, me gustan los desafíos y aprender cosas nuevas.
+Soy un desarrollador Full-Stack ubicado en Argentina, apasionado por la tecnología. Con más de 20 años de experiencia en el mundo IT, me gustan los desafíos y aprender cosas nuevas.
 
 Cómo encontrarme: [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/arielventu/)
 &nbsp;
