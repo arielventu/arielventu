@@ -1,4 +1,4 @@
-<img align="center" src="https://github.com/arielventu/arielventu/blob/master/img/kod.png" title="Code" alt="Ariel Ventura" width="350" /> 
+<img src="https://github.com/arielventu/arielventu/blob/master/img/kod.png" title="Code" alt="Ariel Ventura" width="350" align="center" /> 
 
 
 ### 👨‍💻 Acerca de mí:
