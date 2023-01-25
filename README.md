@@ -4,37 +4,18 @@
 
 ### 👨‍💻 Acerca de mí:
 
-Soy un desarrollador Full-Stack ubicado en Argentina, apasionado por la tecnología. Con más de 20 años de experiencia en el mundo IT, me gustan los desafíos y aprender cosas nuevas.
+# Ariel Ventura
+### Desarrollador Full-Stack. Con más de 20 años de experiencia en el mundo IT, me gustan los desafíos y aprender cosas nuevas
 
-Cómo encontrarme: [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/arielventu/)
-&nbsp;
 
----
 
-### :hammer_and_wrench: Lenguajes y Herramientas :
+ <a aligh="left" href="mailto:arielventu@gmail.com" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/socials/at.svg" alt="Email" width="22" height="22" /></a> <a aligh="left" href="https://www.linkedin.com/in/arielventu" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/socials/linkedin.svg" alt="LinkedIn" width="22" height="22" /></a>  
 
-<div>
-  <img src="https://skillicons.dev/icons?i=react" title="React" alt="React" width="40" height="40"/> 
-  <img src="https://skillicons.dev/icons?i=redux" title="Redux" alt="Redux " width="40" height="40"/> 
-  <img src="https://skillicons.dev/icons?i=css"  title="CSS3" alt="CSS" width="40" height="40"/> 
-  <img src="https://skillicons.dev/icons?i=html" title="HTML5" alt="HTML" width="40" height="40"/> 
-  <img src="https://skillicons.dev/icons?i=javascript" title="JavaScript" alt="JavaScript" width="40" height="40"/> 
-  <img src="https://skillicons.dev/icons?i=tailwind" title="Tailwind" alt="Tailwind" width="40"/> 
-  <img src="https://skillicons.dev/icons?i=bootstrap" title="Bootstrap" alt="Bootstrap" width="40" height="40"/> 
-  <img src="https://skillicons.dev/icons?i=nodejs" title="NodeJS" alt="NodeJS" width="40" height="40"/> 
-  <img src="https://skillicons.dev/icons?i=express" title="Express" **alt="Express" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=postgresql" title="PostgreSQL"  alt="PostgreSQL" width="40" height="40"/> 
-  <img src="https://skillicons.dev/icons?i=github" title="Github" **alt="Github" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=heroku" title="Heroku" **alt="Heroku" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=vercel" title="Vercel" **alt="Vercel" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=linux" title="Linux" **alt="Linux" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=bash" title=bash" **alt="Bash" width="40" height="40"/>
-</div>
+⚐ Based in Argentina
 
----
+ϟ Currently Desarrollando algunas cosas...
 
-### :fire: Mis estadísticas :
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=arielventu&theme=tokyonight_duo&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arielventu&layout=compact&theme=react)](https://github.com/anuraghazra/github-readme-stats)
+ ## Skills
+   <a href="https://www.javascript.com" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/core/javascript.svg" alt="JavaScript" width="25" height="25" /></a>  <a href="https://html.com/html5/" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/frontend/html5.svg" alt="HTML5" width="25" height="25" /></a> <a href="https://css3.com" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/frontend/css3.svg" alt="CSS3" width="25" height="25" /></a> <a href="https://reactjs.org" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/frontend/react.svg" alt="React" width="25" height="25" /></a> <a href="http://tailwindcss.com" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/frontend/tailwind.svg" alt="Tailwind" width="25" height="25" /></a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/frontend/bootstrap.svg" alt="Bootstrap" width="25" height="25" /></a> <a href="https://mui.com/material-ui/" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/frontend/mui.svg" alt="Material UI" width="25" height="25" /></a> <a href="https://redux.js.org" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/frontend/redux.svg" alt="Redux" width="25" height="25" /></a>  <a href="https://nodejs.org" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/backend/nodejs.svg" alt="NodeJS" width="25" height="25" /></a> <a href="http://expressjs.com" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/backend/express.svg" alt="Express" width="25" height="25" /></a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/backend/postgresql.svg" alt="PostgreSQL" width="25" height="25" /></a> <a href="https://www.heroku.com" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/backend/heroku.svg" alt="Heroku" width="25" height="25" /></a> 
